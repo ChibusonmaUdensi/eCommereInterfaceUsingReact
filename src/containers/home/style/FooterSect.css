@@ -1,0 +1,88 @@
+.footContent{
+    width: 100%;
+    height: 590px;
+    background-color:darkgray;
+    position: relative;
+    top: 200px;   
+}
+
+.upToDate{
+    width: 1200px;
+    height: 200px;
+    background-color: black;
+    border-radius: 20px;
+    position: relative;
+    left: 300px;
+    bottom: 100px;   
+    display: flex;
+    gap: 34%;
+}
+.offers{
+    color: white;
+    font-size: 20px;
+    font-weight: 20px;
+    position: relative;
+    top: 30px;
+    font-size: 40px;
+    left: 50px;
+}
+.offer{
+    line-height: 1px;
+}
+.emailBox{
+    width: 200px;
+    height: 50px;
+    background-color: white;
+    border-radius: 30px;
+   margin: 50px;
+}
+.subscribeBox{
+    width: 200px;
+    height: 50px;
+    background-color: white;
+    border-radius: 30px;
+    position: relative;
+    bottom: 30px;
+    margin: 50px; 
+}
+.email{
+    padding: 2px;
+    font-size: 15px;
+    padding-left: 10px;
+}
+.subscribe{
+    /* padding-left: 20px; */
+    padding-top: 100px;
+    font-size: 15px;
+}
+.aboutUs{
+    display: flex;
+    line-height: 25px;
+    font-size: small;
+    color: gray;
+    font-size: 10px;
+    padding-left: 60px;
+    gap: 250px
+}
+.footerDetails{
+    color:black; 
+}
+.footerDetail{
+    color: black;
+    font-size: 30px;
+}
+.borderLine{
+    position: relative;
+    top: 65px;
+    border-bottom: 1px solid dimgray;
+}
+.copyright{
+   font-size: small;
+  color:gray
+}
+.rights{
+    display: flex;
+    margin-top: 100px;
+    gap: 1000px;
+    padding-left: 60px;
+}
